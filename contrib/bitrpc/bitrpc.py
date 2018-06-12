@@ -3,7 +3,7 @@ import sys
 import string
 
 # ===== BEGIN USER SETTINGS =====
-# if you do not set these you will be prompted for a password for every command
+# if you do not set these you will be prompted for a password for every command.
 rpcuser = ""
 rpcpass = ""
 # ====== END USER SETTINGS ======
