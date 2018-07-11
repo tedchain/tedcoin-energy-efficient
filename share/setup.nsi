@@ -3,7 +3,7 @@ Name BottleCaps
 RequestExecutionLevel highest
 SetCompressor /SOLID lzma
 
-# General Symbol Definitions
+# General Symbol Definitions.
 !define REGKEY "SOFTWARE\$(^Name)"
 !define VERSION 0.3.0
 !define COMPANY "BottleCaps project"
